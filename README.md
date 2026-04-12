@@ -1,7 +1,9 @@
 # Perfect 3D Model for Blender
 ##### Updated add-on to import and export Kog's GC models to Blender v5
 
-PT-BR e English documentation for the same addon.
+<img width="672" height="504" alt="image" src="https://github.com/user-attachments/assets/0f55ba37-f4fb-4d6e-a305-2e334eec8c9b" />
+
+> PT-BR e English documentation for the same addon.
 
 ## PT-BR
 
@@ -46,16 +48,22 @@ Objetivos principais:
 
 ### Instalacao
 
-1. Compacte a pasta "addon_p3m_4_blender" em .zip ou baixar o arquivo "P3M_4_Blender.zip" em releases 
+<img width="354" height="438" alt="image" src="https://github.com/user-attachments/assets/f51daf01-7324-4c6b-a2f5-6fd18871e1f5" />
+
+1. Compacte a pasta "addon_p3m_4_blender" em .zip ou baixar o arquivo "P3M_4_Blender.zip" ([releases](https://github.com/matheuslaidler/P3M-4-Blender/releases/)) 
 2. No Blender: Edit > Preferences > Add-ons
 3. Clique em "Install from Disk" (na seta ao lado do botão de tag)
 4. Selecione o arquivo zipado (P3M_4_Blender.zip)
 5. Ative o addon P3M for Blender (vem ativado geralmente)
 
+<img width="916" height="350" alt="image" src="https://github.com/user-attachments/assets/e04ca929-5655-41ed-aa0c-bd70d6fff2d3" />
+
 Menus:
 
 - File > Import > Perfect 3D Model for Blender (.p3m)
 - File > Export > Perfect 3D Model for Blender (.p3m)
+
+<img width="451" height="251" alt="image" src="https://github.com/user-attachments/assets/0a40946a-e023-4b2b-bec1-df9ad3b7e8e3" />
 
 ### Tutorial de importacao
 
@@ -71,6 +79,8 @@ Menus:
    - Posicionamento vertical
    - Forcar vinculo sem osso ao osso raiz
 5. Execute a importacao.
+
+<img width="957" height="271" alt="image" src="https://github.com/user-attachments/assets/dd11e15f-f2e5-49e9-8bfc-789a88c31b75" />
 
 Notas importantes:
 
@@ -183,7 +193,7 @@ Main goals:
 
 ### Installation
 
-1. Zip the folder or download "P3M_4_Blender.zip" from releases.
+1. Zip the folder or download "P3M_4_Blender.zip" from ([releases](https://github.com/matheuslaidler/P3M-4-Blender/releases/)) .
 2. In Blender: Edit > Preferences > Add-ons.
 3. Click Install from Disk...
 4. Select the zip file.
