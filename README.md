@@ -1,8 +1,9 @@
 # Perfect 3D Model for Blender
-##### Updated add-on to import and export Kog's GC models to Blender v5
+##### Updated add-on to import and export Kog's GC models to Blender 5.1
 
 <img width="1051" height="255" alt="image" src="https://github.com/user-attachments/assets/47587e50-d2cf-4b8f-a8a3-e30823f88590" />
 
+##### Plugin atualizado para importar e exportar modelos P3M de Grand Chase para o Blender 5.1
 > PT-BR and English documentation for the same add-on.
 
  -   🇧🇷 [Leia em Português](#pt-br) | 🌍 [Read in English](#en) 
@@ -15,7 +16,7 @@
 
 P3M-4-Blender is an add-on for importing and exporting .p3m files with a focus on stability in modern Blender versions.
 
-<img width="672" height="504" alt="image" src="https://github.com/user-attachments/assets/0f55ba37-f4fb-4d6e-a305-2e334eec8c9b" />
+<img width="472" height="304" alt="image" src="https://github.com/user-attachments/assets/0f55ba37-f4fb-4d6e-a305-2e334eec8c9b" />
 
 Main goals:
 
@@ -83,8 +84,13 @@ Menu entries:
 4. Configure options:
    - **Importar ossos** (Import bones)
    - **Modo de vinculação malha-osso** (Mesh-bone binding mode)
+     - **Com Parenting** (parenting mode)
+     - **Sem Parenting** (no-parenting mode)
    - **Aplicar correção de orientação** (Apply orientation correction)
    - **Posicionamento vertical** (Vertical placement)
+     - **Automatico por Perfil** (Automatic by profile Modern/Legacy)
+     - **Manter origem original** (Keep original orientation)
+     - **Pé no Chão (Blender)** (On the ground -> Lowest part from mesh / foot with Z=0)
    - **Forçar vínculo sem osso ao osso raiz** (Force root bind for vertices without valid bone)
 5. Run import.
 
