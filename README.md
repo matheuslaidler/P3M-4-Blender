@@ -9,6 +9,7 @@
  -   🇧🇷 [Leia em Português](#pt-br) | 🌍 [Read in English](#en) 
 
 ---
+<img width="683" height="414" alt="image" src="https://github.com/user-attachments/assets/1eb1a11c-bbe0-47d5-a056-a15213434dbb" />
 
 ## EN
 
