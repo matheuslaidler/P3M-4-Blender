@@ -1,7 +1,8 @@
 # Perfect 3D Model for Blender
 ##### Updated add-on to import and export Kog's GC models to Blender 5.1
 
-<img width="1051" height="255" alt="image" src="https://github.com/user-attachments/assets/47587e50-d2cf-4b8f-a8a3-e30823f88590" />
+<img width="1005" height="484" alt="image" src="https://github.com/user-attachments/assets/dd92a126-b988-4c07-ba39-5dbc481f43ca" />
+
 
 ##### Plugin atualizado para importar e exportar modelos P3M de Grand Chase para o Blender 5.1
 > PT-BR and English documentation for the same add-on.
@@ -165,11 +166,16 @@ Issue: texture missing after import.
 
 ---
 
+<img width="886" height="407" alt="image" src="https://github.com/user-attachments/assets/d4209267-8a94-44d9-9397-128ce4ab068c" />
+
 ## PT-BR
 
 ### Visão geral
 
 P3M-4-Blender é um add-on para importar e exportar arquivos .p3m com foco em estabilidade no Blender moderno e com mais funcionalidades.
+
+<img width="1050" height="256" alt="image (1)" src="https://github.com/user-attachments/assets/8c9d65f8-05ab-40c7-876a-76d12214344e" />
+
 
 Objetivos principais:
 
