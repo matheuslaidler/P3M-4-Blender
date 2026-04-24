@@ -150,14 +150,14 @@ Issue: texture missing after import.
 
 ### Technical structure
 
-- addon_p3m_v2/__init__.py: addon registration
-- addon_p3m_v2/operador_importacao.py: import operator
-- addon_p3m_v2/operador_exportacao.py: export operator
-- addon_p3m_v2/importador_blender.py: import pipeline
-- addon_p3m_v2/exportador_blender.py: export pipeline
-- addon_p3m_v2/parser_p3m.py: binary parser
-- addon_p3m_v2/modelos_p3m.py: data models and constants
-- addon_p3m_v2/leitor_binario.py: safe binary reader
+-  /__init__.py: addon registration
+-  /operador_importacao.py: import operator
+-  /operador_exportacao.py: export operator
+-  /importador_blender.py: import pipeline
+-  /exportador_blender.py: export pipeline
+-  /parser_p3m.py: binary parser
+-  /modelos_p3m.py: data models and constants
+-  /leitor_binario.py: safe binary reader
 
 ### Credits
 
@@ -300,14 +300,14 @@ Problema: sem textura após importação.
 
 ### Estrutura técnica
 
-- addon_p3m_v2/__init__.py: registro do add-on
-- addon_p3m_v2/operador_importacao.py: operador de importação
-- addon_p3m_v2/operador_exportacao.py: operador de exportação
-- addon_p3m_v2/importador_blender.py: pipeline de importação
-- addon_p3m_v2/exportador_blender.py: pipeline de exportação
-- addon_p3m_v2/parser_p3m.py: parser binário
-- addon_p3m_v2/modelos_p3m.py: modelos e constantes
-- addon_p3m_v2/leitor_binario.py: leitura binária segura
+-  ./__init__.py: registro do add-on
+-  ./operador_importacao.py: operador de importação
+-  ./operador_exportacao.py: operador de exportação
+-  ./importador_blender.py: pipeline de importação
+-  ./exportador_blender.py: pipeline de exportação
+-  ./parser_p3m.py: parser binário
+-  ./modelos_p3m.py: modelos e constantes
+-  ./leitor_binario.py: leitura binária segura
 
 ### Créditos
 
